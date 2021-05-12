@@ -8,6 +8,6 @@ describe('The greet function', function(){
     });
     it('should greet Rennay correctly', function(){
         // this test will fail - can you fix it?
-        assert.equal('Hello, Renay', greet('Rennay'));
+        assert.equal('Hello, Rennay', greet('Rennay'));
     });
 });
